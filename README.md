@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Exploring+Next.js,+Django+%26+Cyber+Security;Turning+ideas+into+code&font=Fira+Code&center=true&width=620&height=50&color=58A6FF&vCenter=true&size=22&pause=1500&duration=3000" />
 
 <br/>
-<a href="https://subhadip-sengupta.vercel.app/" target="_blank">
+<a href="https://subhadip-sengupta.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-https://froxy-portfolio.vercel.app/-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=froxyop-glitch&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
