@@ -31,7 +31,7 @@ Software engineer and student developer with a strong focus on full-stack develo
 - 🌱 **Exploring** Next.js, Django, React Three Fiber & Cyber Security right now
 - 💼 **Freelancing** as a web developer and building custom web solutions
 - 🎓 **Studying** Bachelor of Computer Applications in Cyber Security (MAKAUT)
-- 🚀 **Founder & Developer** at E-WebSolutions
+- 🚀 **associate Developer** at E-WebSolutions
 - 💬 **Ask me about** Next.js, Django, REST APIs, and full-stack architecture
 
 <br/>
