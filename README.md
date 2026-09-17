@@ -67,8 +67,13 @@ Passionate developer focused on building production-ready web apps, secure backe
 ### 🎮 Contribution Game Board
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/froxyop-glitch/froxyop-glitch/output/github-contribution-grid-snake.svg" alt="Contribution Snake Game" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKKash123/AKKash123/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKKash123/AKKash123/gh-pages/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AKKash123/AKKash123/gh-pages/github-contribution-grid-snake.svg" alt="snake contribution animation" />
+  </picture>
 </div>
+
 
 ---
 
