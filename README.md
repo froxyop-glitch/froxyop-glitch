@@ -68,11 +68,21 @@ Passionate developer focused on building production-ready web apps, secure backe
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/froxyop-glitch/froxyop-glitch/gh-pages/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/froxyop-glitch/froxyop-glitch/gh-pages/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/froxyop-glitch/froxyop-glitch/gh-pages/github-contribution-grid-snake.svg" alt="snake contribution animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKKash123/AKKash123/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKKash123/AKKash123/gh-pages/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AKKash123/AKKash123/gh-pages/github-contribution-grid-snake.svg" alt="snake contribution animation" />
   </picture>
 </div>
+
+### 🎮 commits
+
+<br/>
+<h2 align="center">🌍 My Git Commit </h2>
+
+<p align="center">
+  <img src="https://github.com/AKKash123/AKKash123/blob/output/git-invader-multi-dark.svg" width="100%">
+</p>
+<br/>
 
 
 ---
