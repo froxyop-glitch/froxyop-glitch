@@ -54,11 +54,7 @@ Passionate developer focused on building production-ready web apps, secure backe
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=froxyop-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=froxyop-glitch&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=froxyop-glitch&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
