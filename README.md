@@ -2,11 +2,11 @@
   <a href="https://froxy-portfolio.vercel.app/" target="_blank">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Subhadip%20Sengupta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cyber%20Security%20%7C%203D%20Web%20Explorer&descAlignY=56&descSize=18&descColor=58a6ff" alt="Subhadip Sengupta Header" />
   </a>
-  <img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" width="300" alt="CarryMinati GIF">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+with+Next.js+%26+Django;Exploring+Cyber+Security+%26+Secure+Architectures;Crafting+interactive+3D+scenes+with+Three.js;Turning+complex+logic+into+clean+code" alt="Typing SVG" />
   </a>
+  <img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" width="300" alt="CarryMinati GIF">
 
   <p align="center">
     <a href="https://froxy-portfolio.vercel.app/" target="_blank">
