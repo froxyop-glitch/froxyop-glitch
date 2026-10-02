@@ -6,9 +6,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+with+Next.js+%26+Django;Exploring+Cyber+Security+%26+Secure+Architectures;Crafting+interactive+3D+scenes+with+Three.js;Turning+complex+logic+into+clean+code" alt="Typing SVG" />
   </a>
-  <img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" width="300" alt="CarryMinati GIF">
-
-  <p align="center">
+  
+ <p align="center">
     <a href="https://froxy-portfolio.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&borderColor=58A6FF" />
     </a>
@@ -17,6 +16,7 @@
     </a>
   </p>
 </div>
+<img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" width="300" alt="CarryMinati GIF">
 
 <br/>
 
