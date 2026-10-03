@@ -17,8 +17,8 @@
   </p>
 <div class="gif-container">
         <img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" alt="CarryMinati GIF 1">
-        <img src="https://media1.tenor.com/m/WqfD004h6-AAAAAC/bitch-duh-bring-it-on.gif" alt="Bring It On GIF">
-        <img src="https://media1.tenor.com/m/W9x-i9l7rKcAAAAd/cid-meme-acp-praduman.gif" alt="ACP Praduman GIF">
+        <img src="https://tenor.com/m/WqfD004h6-AAAAAC/bitch-duh-bring-it-on.gif" alt="Bring It On GIF">
+        <img src="https://tenor.com/m/W9x-i9l7rKcAAAAd/cid-meme-acp-praduman.gif" alt="ACP Praduman GIF">
     </div>
 
 <br/>
