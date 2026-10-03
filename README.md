@@ -15,10 +15,10 @@
       <img src="https://komarev.com/ghpvc/?username=froxyop-glitch&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
     </a>
   </p>
-<div class="gif-container">
+<div>
         <img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" alt="CarryMinati GIF 1">
         <img src="https://c.tenor.com/m/W9x-i9l7rKcAAAAd/cid-meme-acp-praduman.gif" alt="ACP Praduman GIF">
-    </div>
+
 
 <br/>
 
