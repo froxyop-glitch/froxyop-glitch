@@ -17,8 +17,7 @@
   </p>
 <div class="gif-container">
         <img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" alt="CarryMinati GIF 1">
-        <img src="https://tenor.com/view/bitch-duh-bring-it-on-dare-tyler-oakley-gif-14482284" alt="CarryMinati GIF 1">
-        <img src="https://tenor.com/view/cid-meme-acp-praduman-my-god-gif-4332372562305997666" alt="CarryMinati GIF 1">
+        ![ACP Praduman GIF](https://media1.tenor.com/m/W9x-i9l7rKcAAAAd/cid-meme-acp-praduman.gif)
     </div>
 
 <br/>
