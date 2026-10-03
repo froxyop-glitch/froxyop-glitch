@@ -12,12 +12,12 @@
       <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&borderColor=58A6FF" />
     </a>
     <a href="https://github.com/froxyop-glitch">
-      <img src="https://komarev.com/ghpvc/?username=froxyop-glitch&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Profile%20Views-5M%2B-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 <div>
-        <img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" alt="CarryMinati GIF 1">
-      <br/>
+    <img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" alt="CarryMinati GIF 1">
+  <br/>
 
 ### 👨‍💻 About Me
 
