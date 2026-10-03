@@ -17,10 +17,7 @@
   </p>
 <div>
         <img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" alt="CarryMinati GIF 1">
-        <img src="https://c.tenor.com/m/W9x-i9l7rKcAAAAd/cid-meme-acp-praduman.gif" alt="ACP Praduman GIF">
-
-
-<br/>
+      <br/>
 
 ### 👨‍💻 About Me
 
