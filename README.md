@@ -15,10 +15,11 @@
       <img src="https://komarev.com/ghpvc/?username=froxyop-glitch&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
     </a>
   </p>
-</div>
-<img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" width="300" alt="CarryMinati GIF">
-<img src="https://th.bing.com/th/id/R.1aee8153595fb1f0e41c73f122afc568?rik=9A8PjBj4Jy9V3Q&riu=http%3a%2f%2f24.media.tumblr.com%2f26c04f6dda481e536d367e424b6bbaef%2ftumblr_n53omjY1Nj1sv2tvvo1_500.gif&ehk=hoelnj5y2cbl%2fKVR7Yiys9QDkC3%2bBoV%2bBN5fEZZe7ZA%3d&risl=&pid=ImgRaw&r=0" width="300" align="center" alt="CarryMinati GIF">
-
+<div class="gif-container">
+        <img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" alt="CarryMinati GIF 1">
+        <img src="https://media1.tenor.com/m/WqfD004h6-AAAAAC/bitch-duh-bring-it-on.gif" alt="Bring It On GIF">
+        <img src="https://media1.tenor.com/m/W9x-i9l7rKcAAAAd/cid-meme-acp-praduman.gif" alt="ACP Praduman GIF">
+    </div>
 
 <br/>
 
