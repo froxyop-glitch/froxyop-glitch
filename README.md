@@ -17,7 +17,7 @@
   </p>
 <div class="gif-container">
         <img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" alt="CarryMinati GIF 1">
-        ![ACP Praduman GIF](https://media1.tenor.com/m/W9x-i9l7rKcAAAAd/cid-meme-acp-praduman.gif)
+        <img src="https://media1.tenor.com/m/W9x-i9l7rKcAAAAd/cid-meme-acp-praduman.gif" width="300" alt="ACP Praduman GIF">
     </div>
 
 <br/>
