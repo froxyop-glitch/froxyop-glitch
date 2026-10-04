@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&borderColor=58A6FF" />
     </a>
     <a href="https://github.com/froxyop-glitch">
-      <img src="https://img.shields.io/badge/Profile%20Views-49.2M%2B-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Profile%20Views-49.9M%2B-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 <div>
