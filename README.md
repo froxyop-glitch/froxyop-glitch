@@ -1,4 +1,4 @@
-<div align="center">
+hi<div align="center">
   <a href="https://froxy-portfolio.vercel.app/" target="_blank">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Subhadip%20Sengupta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cyber%20Security%20%7C%203D%20Web%20Explorer&descAlignY=56&descSize=18&descColor=58a6ff" alt="Subhadip Sengupta Header" />
   </a>
@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&borderColor=58A6FF" />
     </a>
     <a href="https://github.com/froxyop-glitch">
-      <img src="https://img.shields.io/badge/Profile%20Views-52.3M%2B-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Profile%20Views-65.9M%2B-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 <div>
