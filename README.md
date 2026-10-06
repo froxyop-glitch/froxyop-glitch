@@ -1,4 +1,4 @@
-hi<div align="center">
+<div align="center">
   <a href="https://froxy-portfolio.vercel.app/" target="_blank">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Subhadip%20Sengupta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cyber%20Security%20%7C%203D%20Web%20Explorer&descAlignY=56&descSize=18&descColor=58a6ff" alt="Subhadip Sengupta Header" />
   </a>
