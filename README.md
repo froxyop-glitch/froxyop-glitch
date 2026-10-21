@@ -16,7 +16,11 @@
     </a>
   </p>
 <div>
-    <img src="https://c.tenor.com/K8LGcUyCnpAAAAAC/carryminati.gif" alt="CarryMinati GIF 1">
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="froxyop-glitch's GitHub profile" src="dark_mode.svg" />
+</picture>
   <br/>
 
 ### 👨‍💻 About Me
