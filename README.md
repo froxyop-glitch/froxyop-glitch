@@ -16,13 +16,6 @@
     </a>
   </p>
 
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="froxyop-glitch's GitHub profile" src="dark_mode.svg" />
-    </picture>
-
-
 ### 👨‍💻 About Me
 
 Passionate developer focused on building production-ready web apps, secure backend systems, and interactive 3D web experiences.
